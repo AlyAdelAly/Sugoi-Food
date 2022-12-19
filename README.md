@@ -10,3 +10,4 @@ Sugoi Food is an interactive website page display different meals of food, and u
 * Swiper Library
 
 # Live Demo
+https://sugoi-food.netlify.app
